@@ -1,0 +1,10 @@
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\bin\Debug\NETKukulka.exe.config
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\bin\Debug\NETKukulka.exe
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\bin\Debug\NETKukulka.pdb
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\obj\Debug\NETKukulka.csprojResolveAssemblyReference.cache
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\obj\Debug\NETKukulka.MainForm.resources
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\obj\Debug\NETKukulka.Properties.Resources.resources
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\obj\Debug\NETKukulka.ElapsedTimeForm.resources
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\obj\Debug\NETKukulka.csproj.GenerateResource.Cache
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\obj\Debug\NETKukulka.exe
+E:\programowanie\c\dot net\NETKukulka\NETKukulka\obj\Debug\NETKukulka.pdb
